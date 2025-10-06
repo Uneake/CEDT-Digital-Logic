@@ -1,1 +1,1 @@
-# CEDT-Digital-Logic
+# Solution of Digital Logic
